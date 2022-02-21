@@ -1,2 +1,2 @@
-# CSE102-ComputerProgramming
-It is a collection of GTU assignments.
+CSE102-ComputerProgramming
+There are some assignments written in C programming language.
